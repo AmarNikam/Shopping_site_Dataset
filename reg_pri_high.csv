@@ -1,0 +1,93 @@
+Order Priority,Region,Region
+Critical,Western Europe,448
+Critical,Central America,418
+Critical,Oceania,291
+Critical,Western US,243
+Critical,Eastern US,235
+Critical,South America,231
+Critical,Southern Asia,208
+Critical,Eastern Asia,207
+Critical,Southern Europe,183
+Critical,Western Asia,171
+Critical,Southeastern Asia,169
+Critical,Central US,168
+Critical,Northern Europe,150
+Critical,Southern US,137
+Critical,Eastern Europe,135
+Critical,Western Africa,118
+Critical,Caribbean,106
+Critical,North Africa,86
+Critical,Eastern Africa,74
+Critical,Southern Africa,48
+Critical,Central Africa,46
+Critical,Canada,37
+Critical,Central Asia,23
+High,Western Europe,1682
+High,Central America,1616
+High,Oceania,1100
+High,Western US,1023
+High,Southeastern Asia,940
+High,South America,905
+High,Eastern US,882
+High,Southern Asia,776
+High,Eastern Asia,726
+High,Western Asia,723
+High,Central US,671
+High,Northern Europe,669
+High,Southern Europe,633
+High,Caribbean,599
+High,Southern US,493
+High,Eastern Europe,460
+High,Western Africa,424
+High,North Africa,369
+High,Central Africa,228
+High,Eastern Africa,224
+High,Southern Africa,159
+High,Canada,128
+High,Central Asia,71
+Low,Central America,331
+Low,Western Europe,302
+Low,Western US,156
+Low,Northern Europe,146
+Low,Southeastern Asia,144
+Low,Western Asia,131
+Low,Oceania,122
+Low,South America,118
+Low,Eastern Asia,117
+Low,Southern Europe,112
+Low,Central US,105
+Low,Eastern US,104
+Low,Southern Asia,95
+Low,Caribbean,71
+Low,North Africa,71
+Low,Eastern Europe,68
+Low,Southern US,67
+Low,Western Africa,45
+Low,Central Africa,37
+Low,Eastern Africa,36
+Low,Southern Africa,24
+Low,Canada,11
+Low,Central Asia,11
+Medium,Western Europe,3451
+Medium,Central America,3251
+Medium,Oceania,1974
+Medium,Southeastern Asia,1876
+Medium,Western US,1781
+Medium,South America,1734
+Medium,Eastern US,1627
+Medium,Southern Asia,1576
+Medium,Western Asia,1415
+Medium,Central US,1379
+Medium,Eastern Asia,1324
+Medium,Northern Europe,1239
+Medium,Southern Europe,1185
+Medium,Southern US,923
+Medium,Caribbean,914
+Medium,Western Africa,873
+Medium,Eastern Europe,866
+Medium,North Africa,752
+Medium,Eastern Africa,394
+Medium,Central Africa,332
+Medium,Southern Africa,247
+Medium,Canada,208
+Medium,Central Asia,112

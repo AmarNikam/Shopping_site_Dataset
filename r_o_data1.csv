@@ -1,0 +1,86 @@
+Order Priority,Region_y,Region_y
+Critical,Eastern Asia,28
+Critical,Oceania,17
+Critical,Southeastern Asia,17
+Critical,Western US,16
+Critical,Eastern US,14
+Critical,Central America,13
+Critical,Western Europe,13
+Critical,Central US,10
+Critical,Western Asia,10
+Critical,South America,9
+Critical,Western Africa,9
+Critical,Southern Asia,7
+Critical,Southern Europe,7
+Critical,Northern Europe,5
+Critical,Caribbean,4
+Critical,North Africa,3
+Critical,Southern US,3
+Critical,Eastern Africa,1
+Critical,Eastern Canada,1
+Critical,Eastern Europe,1
+High,Western Europe,71
+High,Oceania,64
+High,Central America,63
+High,Western Asia,40
+High,Southern Europe,39
+High,Western US,38
+High,Southern US,34
+High,Eastern US,33
+High,Southern Asia,32
+High,Caribbean,30
+High,Eastern Asia,29
+High,Northern Europe,26
+High,Southeastern Asia,25
+High,South America,22
+High,Central US,18
+High,North Africa,18
+High,Eastern Europe,17
+High,Southern Africa,13
+High,Eastern Africa,8
+High,Central Asia,7
+High,Western Africa,7
+High,Eastern Canada,6
+High,Central Africa,3
+Low,Western US,28
+Low,South America,12
+Low,Eastern US,11
+Low,Western Europe,11
+Low,Oceania,9
+Low,Central America,8
+Low,Southeastern Asia,8
+Low,Southern Asia,7
+Low,Southern Europe,7
+Low,Central US,6
+Low,Western Africa,5
+Low,Eastern Asia,4
+Low,Western Asia,3
+Low,Southern US,2
+Low,Caribbean,1
+Low,Eastern Europe,1
+Low,Northern Europe,1
+Low,Southern Africa,1
+Medium,Central America,164
+Medium,Western Europe,138
+Medium,Western US,98
+Medium,South America,90
+Medium,Southeastern Asia,90
+Medium,Eastern US,76
+Medium,Eastern Asia,70
+Medium,Southern Asia,65
+Medium,Oceania,64
+Medium,Southern Europe,59
+Medium,Western Asia,55
+Medium,Northern Europe,44
+Medium,Southern US,44
+Medium,Western Africa,39
+Medium,Central US,37
+Medium,Caribbean,34
+Medium,North Africa,30
+Medium,Eastern Europe,23
+Medium,Central Africa,14
+Medium,Southern Africa,11
+Medium,Eastern Africa,9
+Medium,Western Canada,5
+Medium,Eastern Canada,3
+Medium,Central Asia,2
